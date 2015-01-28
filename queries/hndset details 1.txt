@@ -1,0 +1,122 @@
+values
+(
+12,'Samsung',
+'Samsung Galaxy Ace Duos SCH-I589',
+'320 x 480 Pixels, 3.5"',
+'Android OS v2.3 ',
+'299.80',
+'3.0 MP',
+'Bluetooth v3.0 with A2DP,Wi-Fi',	
+100
+)
+
+
+values
+insert into handset values (
+13,'Samsung',
+'Samsung Omnia M',
+'480 x 800 Pixels, 4.0" ',
+'Windows Phone OS v7.5 (Mango)',
+'353.40',
+'Ext:5.0MP; Int:0.3MP, VGA',
+'3G,4 (or) 8 GB (Internal) + 384 MB (RAM)',
+100
+),
+
+(
+14,'Samsung',
+'Samsung Galaxy S3',
+'1280 x 720 Pixels, 4.8"',
+'Android OS v4.0 ',
+'775.60',
+'Ext:8.0MP: Int:1.9MP',
+'16 (or) 32 GB (User memory), 64,3G,Wi-Fi',
+100	
+),
+
+(
+15,'Samsung',
+'Samsung Galaxy Y Duos',
+'240 x 320 Pixels, 3.14"',
+'Android OS v2.3 ',
+'203.80',
+'3.0 MP',
+'Wi-Fi ,3G,MP3,Digital Audio&Video Recording',
+100
+),
+
+(
+16,'Samsung',
+'Samsung Galaxy R',
+'480 x 800 Pixels, 4.2"',
+'Android OS v2.3 ',
+'522.30',
+'Ext:5.0MP; Int:1.3MP', 
+'Wi-Fi ,3G,MP3',
+100
+),
+
+(
+17,'Samsung',
+'Samsung Galaxy Note 2',
+'320 x 480 Pixels, 5.5"',
+'Android OS, v4.1 ',
+'864.45',
+'Ext:8.0MP; Int:1.9MP',
+'16 (or) 32 (or) 64 GB (Internal) + 2 GB (RAM) Wi-Fi 3G ',
+100
+),
+
+(
+18,'Samsung',
+'Samsung Galaxy S Duos',
+'480 x 800 Pixels, 4.0"',
+'Android OS, v4.0',
+'397.99',
+'Ext:5.0MP; Int:0.3MP,VGA',
+'Wi-Fi, 3G, 1GB (Internal) + 512 MB (RAM)',
+100
+),
+
+(
+19,'Samsung',
+'Samsung Galaxy S2 X',
+'800 x 480 Pixels, 3.5"',
+'Android OS v2.3' ,
+'575.99',
+'8.0MP,Front: 2.0MP', 
+'Wi-Fi ,3G', 100
+),
+
+(
+20,'Samsung',
+'Galaxy Attain',
+'320 x 480 Pixels, 3.5"',
+'Android OS v2.3',
+'346.99',
+'Ext:3.0MP,; Int:1.3MP', 
+'512 MB RAM, 3G',100
+),
+
+(
+21,'Samsung',
+'Galaxy Advance',
+'480 x 800 Pixels, 4.0"',
+'Android OS v2.3', 
+'596.99',
+'Ext:5.0MP; Int:1.3MP', 
+'Wi-Fi, 3G',
+100
+),
+
+(
+22,
+'Samsung',
+'Samsung Galaxy S2 WiMax',
+'4.7 inches',
+'Android OS v2.3',
+'574.99',
+'Ext:8.0MP,; Int:2.0MP',
+'Wi-Fi ,3G, CPU C210 + QSC6085 (1.4GHz), Samsung Apps',
+100
+); 

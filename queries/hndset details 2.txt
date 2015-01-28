@@ -1,0 +1,95 @@
+insert into handset values 
+(
+23,'HTC',
+'HTC Desire V',
+488,
+'Android 4.0',
+'5.0 Megapixel',
+'480 x 800 pixels,4.0 inches',
+'1 GHz Cortex-A5,Dual SIM,512 MB RAM,3G, 4 GB internal ,microSD up to 32 GB,Wi-Fi,GPS'
+,100),
+
+(
+24,
+'HTC',
+'HTC Desire',
+'320 x 480 pixels, 3.5 inches', 
+'Android OS, v4.0',
+328, 
+'5 MP, autofocus',
+'600 MHz Cortex-A5, 512 MB RAM, microSD up to 32 GB,Wi-Fi',
+100),
+
+(
+25,'HTC',
+'HTC One X',
+'720 x 1280 pixels, 4.7 inches',
+'Android 4.0',
+'800', 
+'8.1 MP',
+'Quad-core 1.5 GHz, 1 GB RAM, 32 GB internal,Wi-Fi,GPS,3G',
+100),
+
+(
+26,'HTC',
+'HTC One S',
+'540 x 960 pixels, 4.3 inches',
+'Android 4.0',
+'746',
+'8 MP',
+'Dual-core 1.5 GHz, 1 GB RAM, 16 GB internal, Wi-Fi, GPS, 3G',
+100),
+
+(
+27,
+'HTC',
+'HTC Explorer',
+'320 x 480 pixels, 3.2 inches',
+'Android OS, v2.3',
+'194', 
+'3.15 MP',
+'600 MHz Cortex A5, 512 MB RAM, 3G, microSD up to 32GB, Wi-Fi',
+100), 
+
+(
+28,'HTC',
+'HTC One V',
+'480 x 800 pixels, 3.7 inches',
+'Android OS, v4.0.3',
+'388.89',
+'5 MP',
+'1 GHz, 512 MB RAM, Wi-Fi, 4 GB internal, microSD up to 32GB',
+100
+),
+
+(
+29,'HTC',
+'HTC Sensation XE',
+'540 x 960 pixels, 4.3 inches',
+'Android OS, v2.3.4',
+715.53,
+'8 MP',
+'Dual-core 1.5 GHz, 768 MB RAM,GPS,3G',
+100
+),
+
+(
+30,'HTC',
+'One Z',
+'480 x 800 pixels, 3.7 inches',
+'Android OS, v2.3.4',
+568.51,
+'5 MP',
+'1 GHz,768 MB RAM,GPS,Wi-Fi3G',
+100
+),
+
+(
+31, 'HTC',
+'ChaCha',
+'480 x 320 pixels, 2.6 inches', 
+'Android OS, v2.3',
+262.22,
+'5 MP',
+'800 MHz, Wi-Fi, 3G, 512 MB internal, microSD, up to 32GB',100
+);

@@ -1,0 +1,8 @@
+CREATE TABLE handset
+(id int not null,
+b_id varchar(15),
+primary key (id), name varchar(25) not null, screen varchar(35) not null,
+os varchar(25) not null, price int not null, 
+camera varchar(50) not null, features varchar (100) not null,
+constraint foreig_key foreign key (b_id) references brand(name)
+);

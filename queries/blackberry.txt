@@ -1,0 +1,55 @@
+insert into handset values
+(
+ 32,'Blackberry',
+ 'Blackberry Curve 9220',
+ '320 x 240 pixels,2.44"',
+ 'BlackBerry OS 7.1',
+ '235.98',
+ '2 MP',
+ '512 MB RAM,512 MB ROM,microSD up to 32 GB,Wi-Fi',
+ 100
+),
+
+(
+ 33,'Blackberry',
+ 'Blackberry Curve 9380',
+ '360 x 480 pixels,3.2"' ,
+ 'BlackBerry OS 7.0',
+ '371.11',
+ '5 MP',
+ '512 MB RAM,WiFi,microSD up to 32GB',
+ 100
+),
+
+(
+ 34,'Blackberry',
+ 'Blackberry Bold 9790',
+ '480 x 360 pixels,2.45"', 
+ 'BlackBerry OS 7.0',
+ '577.22',
+ '5 MP',
+ '1 GHz,768 MB RAM,8 GB internal,microSD up to 32GB',
+ 100
+),
+
+(
+ 35,'BlackBerry',
+ 'BlackBerry Bold Touch 9900',
+ '640 x 480 pixels,2.8"', 
+ 'BlackBerry OS 7.0',
+ '726.22',
+ '5 MP',
+ '1.2 GHz,768 MB RAM,8GB internal,microSD up to 32GB',
+ 100
+),
+
+(
+36,'Blackberry',
+'Blackberry Torch 9860',
+'480 x 800 pixels,3.7"', 
+'BlackBerry OS 7',
+'464.44',
+'5 MP',
+'1.2 GHz,768 MB RAM,4 GB internal,microSD up to 32GB',
+100
+);

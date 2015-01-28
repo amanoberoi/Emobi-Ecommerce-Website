@@ -1,0 +1,9 @@
+create table orders (
+order_id int not null auto_increment,
+username varchar(15) not null,
+phone_id int not null,
+timest varchar(50),
+primary key (order_id),
+constraint fore_key foreign key (username) references customer(username),
+constraint frig_key foreign key (phone_id) references handset(id)
+)

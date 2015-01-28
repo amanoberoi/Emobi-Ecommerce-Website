@@ -1,0 +1,39 @@
+Apple iPhone 5
+$933.33 
+iOS 6
+8 MP
+640 x 1136 pixels, 4.0 inches
+Dual-core 1.2 GHz,1 GB RAM
+16/32/64 GB internal,Wi-Fi,3G,4G,GPS
+
+Apple iPhone 4S
+$988.89
+iOS 5
+8 MP
+640 x 960 pixels, 3.5 inches 
+Dual-core 1 GHz,512 MB RAM
+16/32/64 GB internal,Wi-Fi,3G,GPS
+
+Apple iPhone 4
+$842.22 
+iPhone OS 4
+5 MP
+640 x 960 pixels, 3.5 inches
+1 GHz,512 MB RAM
+8/16/32 GB internal,Wi-Fi,3G,GPS
+
+Apple iPhone 3G S
+$464.44 
+iPhone OS 3
+3.15 MP
+320 x 480 pixels, 3.5 inches 
+600 MHz,256 MB RAM
+8/16/32 GB internal,Wi-Fi,3G,GPS
+
+Apple iPhone 3G
+$655.56
+iPhone OS
+2 MP
+320 x 480 pixels, 3.5 inches 
+412 MHz ,128 MB RAM
+8 GB/ 16 GB storage,Wi-Fi,3G,GPS

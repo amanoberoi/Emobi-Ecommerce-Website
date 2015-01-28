@@ -1,0 +1,15 @@
+
+
+create datbase rgp;
+ create table member(myusername varchar(20) not null,mypassword varchar(20) not null);
+
+ create table memberinfo(myusername varchar(30),mypassword varchar(20),mymobile varchar(12),mystate varchar(30),mycountry varchar(30),myemail varchar(30));
+
+
+mysql>  create table admin(myadminname varchar(20) not null,mypassword varchar(20) not null);
+
+mysql> insert into admin values ('pogaro','pogaro');
+
+
+mysql> create table msg(myusername varchar(20),mymessage varchar(500));
+Query OK, 0 rows affected (0.36 sec)

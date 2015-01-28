@@ -1,0 +1,88 @@
+Sony Xperia SL
+$688.87
+Android OS, v4.0.4 
+12 MP
+720 x 1280 pixels, 4.3 inches
+Dual-core 1.7 GHz,1 GB RAM,
+32 GB internal,GPS,Wi-Fi,3G,
+
+Sony Xperia Neo L
+$411.09
+Android OS, v4.0.4
+5 MP
+480 x 854 pixels, 4.0 inches
+1 GHz,512 MB RAM,GPS,Wi-Fi,3G,
+1 GB internal,microSD, up to 32GB
+
+Sony Xperia Ion HSPA
+$800
+Android OS, v2.3 
+12 MP
+720 x 1280 pixels, 4.55 inches 
+Dual-core 1.5 GHz,1 GB RAM,GPS,Wi-Fi,3G,
+13.2 GB internal,microSD, up to 32 GB 
+
+Sony Xperia Tipo Dual
+$228.89
+Android OS, v4.0.3
+3.15 MP
+320 x 480 pixels, 3.2 inches
+800 MHz,512 MB RAM,GPS,Wi-Fi,3G,
+2.9 GB internal,microSD, up to 32 GB
+
+Sony Xperia Tipo
+$211.11
+Android OS, v4.0.4
+3.15 MP
+320 x 480 pixels, 3.2 inches
+800 MHz Cortex-A5, 512 MB RAM,GPS,Wi-Fi
+2.9 GB internal,microSD up to 32 GB,3G,
+
+Sony Xperia Miro
+$322.22
+Android OS, v4.0 
+5 MP
+320 x 480 pixels, 3.5 inches
+800 MHz,512 MB RAM,GPS,Wi-Fi,3G,
+4 GB internal storage,microSD up to 32 GB  
+
+Sony Xperia go
+$422.2
+Android OS, v2.3
+5 MP
+320 x 480 pixels, 3.5 inches 
+Dual-core 1 GHz,512 MB RAM,GPS,Wi-Fi,3G,
+8 GB internal,microSD up to 32 GB 
+
+Sony Xperia Sola
+$488.89
+Android OS, v2.3
+5 MP
+480 x 854 pixels, 3.7 inches
+Dual-core 1 GHz,512 MB RAM,GPS,Wi-Fi,3G,
+8 GB internal,microSD, up to 32 GB
+
+Sony Xperia P
+$544.42
+Android OS, v2.3
+8 MP,
+540 x 960 pixels, 4.0 inches 
+Dual-core 1 GHz,1 GB RAM
+16 GB internal,GPS,Wi-Fi,3G
+
+Sony Xperia U
+$366.67
+Android OS, v2.3
+5 MP
+480 x 854 pixels, 3.5 inches
+Dual-core 1 GHz,512 MB RAM 
+8 GB internal,GPS,Wi-Fi,3G
+
+Sony Xperia S
+$688.67
+Android OS, v2.3
+12 MP
+720 x 1280 pixels, 4.3 inches
+Dual-core 1.5 GHz,1 GB RAM
+32 GB internal,GPS,Wi-Fi,3G
+)

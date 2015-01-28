@@ -1,0 +1,113 @@
+insert into handset values
+(1,'Nokia',
+'Nokia E6',
+'640 x 480 Pixels, 2.46"',
+'Symbian Anna',
+'377.38',
+'Yes,2x Digital Zoom with Full-focus & Flash',
+'Wi-Fi,MP3,Digital Audio&Video Recording',100),
+
+(
+2,'Nokia',
+'Nokia 6700 Classic Gold Edition',
+'Symbian Anna',
+'640 x 480 Pixels, 3.15"',
+'451.08',
+'5MP',
+'4x Digital Zoom with Autofocus & LED Flash,
+3G,512 MB RAM'
+,100),
+
+(
+3,'Nokia',
+'Nokia Lumia 800',
+'800 X 480 Pixels,3.7"',
+'Windows Phone 7.5',
+'511.10',
+'8.0 MP',
+'Memory InBuilt 512 MB (Program,100) + 16 GB (Internal,100),
+3G '
+,100),
+
+
+(
+4,'Nokia',
+'Nokia N9',
+'854 x 480 Pixels, 3.9"',
+'MeeGo 1.2 Harmattan',
+'588.80',
+'8.0 MP',
+'16 GB or 64 GB + RAM: 1 GB,3G'
+,100),
+
+
+(
+5,'Nokia',
+'Nokia E7',
+'640 x 360 Pixels, 4.0"',
+'Symbian 3 OS,upgradable to Symbian Anna',
+'566.02',
+'8.0MP, Ext:0.3MP, VGA',
+'Wi-Fi ,3G,RAM: 1 GB,16 GB Internal'
+,100),
+
+(
+6,'Nokia',
+'Nokia Lumia 900',
+'480 x 800 Pixels, 4.3"',
+'Windows Phone 7.5 Mango',
+'694.48',
+'Ext:8.0MP;Int:1.0MP',
+'14.5 GB (Internal,100) + 512 MB RAM, 3G' 
+,100),
+
+
+(
+7,'Nokia',
+'Nokia Lumia 800',
+'800 x 480 Pixels, 3.7"',
+'Windows Phone 7.5',
+'511.10',
+'8.0 MP',
+'512 MB (Program,100) + 16 GB (Internal,100), 3G'
+,100),
+
+(
+8,'Nokia',
+'Nokia 808 PureView',
+'640 x 360 Pixels, 4.0 inches',
+540,
+'41.0 MP',
+'Nokia Belle Feature Pack 1',
+'Wi-Fi ,3G',
+100),
+
+(
+9,'Nokia',
+'Nokia Lumia 920',
+'1280 x 768 pix., 4.5"',
+'Windows Phone 8',
+'888.99',
+'Ext:8.7MP; Int:1.0MP',
+'Wi-Fi ,3G,16 GB Internal, HD Audio & Video Recording'
+,100),
+
+(
+10,'Nokia',
+'Nokia Lumia 820',
+'480 x 800 Pixels, 3.7"',
+'Windows Phone 8',
+'733.99',
+'8.0 MP',
+'Wi-Fi ,3G,HD Video Recording',
+100),
+
+(
+11,'Nokia',
+'Nokia X7',
+'640 x 360 Pixels, 4.0"',
+'Symbian Anna',
+'443.31',
+'8.0 MP',
+'WiFi,3G 512 MB',
+100);
